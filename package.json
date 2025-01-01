@@ -41,10 +41,10 @@
     "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
-    "@types/node": "22.10.1",
+    "@types/node": "22.10.3",
     "@types/react-slick": "^0.23.13",
     "@types/slick-carousel": "^1.6.40",
-    "cypress": "^13.16.0",
+    "cypress": "^13.17.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-cypress": "^2.15.1",
     "eslint-plugin-import": "^2.31.0",
